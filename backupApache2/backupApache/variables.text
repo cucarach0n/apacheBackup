@@ -1,0 +1,13 @@
+IP_SERVER = sgdfip-api.mariachigalademexico.com,soporgram.ddns.net
+USER_MAIL_PASSWORD = 2901508352688158
+USER_MAIL_ADDRESS = devalo19@gmail.com
+
+DATA_BASE = sgdfip_bd
+DATA_BASE_HOST = localhost
+DATA_BASE_USER = root
+DATA_BASE_PASSWORD = 2901508352688159
+TESSERACT_CMD_PATH = C:\Program Files\Tesseract-OCR\tesseract
+POPPLER_PATH_WINDOWS = C:\Program Files\poppler-0.68.0\bin
+SECRET_KEY = django-insecure-8r*yvt7^=0^47*y)555aeu)6tv^!x-s_lna)$gg2!ioznvi%q(
+
+URL_SERVER = localhost:8000
